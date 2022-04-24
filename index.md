@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### DATA SAINCZH
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[EHEHE](/sample_page)
+<img src="images/download (2).png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
